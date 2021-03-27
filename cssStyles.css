@@ -1,0 +1,151 @@
+body {
+    margin: 0;
+    color: white; 
+    font-family: sans-serif;
+}
+
+h1 {
+    margin: 0 auto;
+    font-family: 'Dancing Script', cursive;
+    font-size: 65px;
+}
+
+h2 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+    margin-top: 0;
+    color: #ff7b54;
+}
+
+.top{
+    background-color: #184d47;
+    text-align: center;
+    padding-top: 100px;
+    position: relative;
+    height: 200px;
+}
+
+.sunflower {
+    width: 5%;
+}
+
+.sunflower1{
+    position: absolute;
+    right: 250px;
+    top: 180px;
+}
+
+.sunflower2{
+    position: absolute;
+    bottom: 200px;
+}
+.sunflower3{
+    position: absolute;
+    left: 80px;
+    top: 5px;
+}
+.sunflower4{
+    position: absolute;
+    left: 350px;
+    bottom: 20px;
+}
+.sunflower5{
+    position: absolute;
+    right: 30px;
+    top: 5px;
+}
+
+.leaves{
+    width: 6%
+}
+
+.leaves1{
+    position: absolute;
+    right: 300px;
+    top: 5px;
+}
+.leaves2{
+    position: absolute;
+    right: 600px;
+    bottom: 10px;
+}
+.leaves3{
+    position: absolute;
+    left: 300px;
+    top: 5px;
+}
+.leaves4{
+    position: absolute;
+    left: 100px;
+    bottom: 50px;
+}
+.leaves5{
+    position: absolute;
+    right: 50px;
+    bottom: 10px;
+}
+
+.middle{
+    background-color: #96bb7c;
+    height: 450px;
+    text-align: center;
+    padding-top: 100px;
+}
+.img1 {
+    border-radius: 50%;
+    position: absolute;
+    left: 400px;
+    top: 380px;
+    width: 12%;
+    height: 25%;
+}
+.img2{
+    border-radius: 50%;
+    position: absolute;
+    left: 600px;
+    top: 380px;
+    width: 12%;
+    height: 25%;
+}
+.img3{
+    border-radius: 50%;
+    position: absolute;
+    left: 800px;
+    top: 380px;
+    width: 12%;
+    height: 25%;
+}
+.content{
+    margin: 0 auto;
+    font-family: 'Hachi Maru Pop', cursive;
+    font-size: 25px;
+}
+.paragraph{
+    margin: 40px;
+    font-family: 'Lexend', sans-serif;
+    font-size: 16px;
+    text-align: center;
+    color: #00303f;
+}
+
+.foot{
+    background-color: #eebb4d;
+    height: 350px;
+    padding-top: 50px;
+}
+.contact{
+    font-family: 'Hachi Maru Pop', cursive;
+    font-size: 25px;
+    text-align: center;
+}
+.form{
+    margin-left: 450px;
+    padding-top: 5px;
+    padding-top: 5px;
+    position: absolute;
+    text-align:center;
+
+}
+
+
+
